@@ -1,0 +1,2 @@
+public class twoAttemptLaba4 {
+}
