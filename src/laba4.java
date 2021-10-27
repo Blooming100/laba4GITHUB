@@ -3,6 +3,7 @@ public class laba4 {
 
         System.out.println("Second commit");
         System.out.println("IDE changes");
-        System.out.println("Commit of GitHub");
+        System.out.println("Commit of GitHub.");
+
     }
 }
